@@ -18,7 +18,7 @@ Este es un archivo README.md para un proyecto en GitHub que muestra un ejemplo d
 
 ## HEAD
 
-![Logo de Apeperia](logo-apeperia.svg)
+![Logo de Apeperia](..img/logo-apeperia.svg)
 
 Texto alternativo del logo: Logo de Apeperia
 
