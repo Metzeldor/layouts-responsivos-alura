@@ -63,7 +63,7 @@
 }
 
 .tarjetas__texto {
-    color: var(--fuente-ceniza-claro);
+    color: var(--fuente-ceniza-oscuro);
     line-height: 28px;
 }
 
@@ -103,4 +103,15 @@
 
 .tarjetas__boton--mega {
     border-color: var(--planes-card-mega);
+}
+
+@media screen and (min-width:1024px) {
+    .planes__tarjetas {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: flex-end;
+    }
+    .tarjetas {
+        max-width: 300px;
+    }
 }
