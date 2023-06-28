@@ -1,7 +1,6 @@
 # Layouts Responsivos
 
-Este proyecto se enfoca en el desarrollo de layouts responsivos y adaptables a diferentes tamaños de pantalla. A través del curso "Layouts Responsivos" en Alura Latam, se cubrieron los siguientes temas principales:
-
+Este proyecto se enfoca en el desarrollo de layouts responsivos y adaptables a diferentes tamaños de pantalla. A través del curso "Layouts Responsivos" en Alura Latam, doy especial agradecimiento a la instructora del curso Tatiani Meneghini
 ## Uso de EMMET
 
 Aprendí a utilizar EMMET, una herramienta que te permitirá generar bloques de código de manera eficiente, ahorrando tiempo durante el desarrollo web. Con EMMET podrás crear rápidamente estructuras HTML y CSS utilizando una sintaxis sencilla y abreviada.
